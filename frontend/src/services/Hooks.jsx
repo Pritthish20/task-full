@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const TASK_URL = `${import.meta.env.VITE_API_BASE_URL}`;
+const TASK_URL = `${import.meta.env.VITE_API_PROD_URL}`;
 
 export const getTasks = async () => {
     try {
