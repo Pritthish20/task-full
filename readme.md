@@ -5,7 +5,7 @@ A lightweight, efficient task management application built with the MERN stack, 
 
 
 ## 🖥️ Live Demo
-*[Live Link](https://task-full-w7ta.vercel.app/)*
+*[Live Link](https://task-full-f7f3.vercel.app/)*
 
 ## 🖥 API Documentation
 *[API Endpoint Docs](https://documenter.getpostman.com/view/39575061/2sAYkKJdKj)*
