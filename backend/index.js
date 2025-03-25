@@ -19,7 +19,7 @@ const app=express();
 //middleware
 
 app.use(cors({
-      origin: ["http://localhost:5173",], 
+      origin: ["http://localhost:5173","https://task-full-f7f3.vercel.app"], 
       credentials: true,
     }));
  
